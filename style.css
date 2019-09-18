@@ -1,0 +1,41 @@
+input {
+    
+    border-radius: 5px;
+}
+body {
+	background-color: cyan;
+}
+label {
+    font-family: sans-serif;
+    font-size: 1rem;
+    padding-right: 10px;
+    display: round;
+}
+
+select {
+    font-size: .9rem;
+    padding: 2px;
+ }
+
+h4,
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+fieldset {
+	font-size: 15px;
+	font-style: italic;
+}
+
+label,
+textarea {
+    font-size: .8rem;
+    letter-spacing: 1px;
+}
+textarea {
+    padding: 50px;
+    line-height: 1;
+    border-radius: 10px;
+    border: 4mm ridge rgba(170, 50, 220, .6);
+    box-shadow: 1px 1px 1px #999;
+}
